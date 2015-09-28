@@ -1,6 +1,9 @@
 from selenium import webdriver
 import unittest
 
+
+#test from a visitor 's point of view
+
 class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):
